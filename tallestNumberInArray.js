@@ -1,5 +1,5 @@
 function tallestNumber(array){
-    let tallest=array[0]
+    let tallest=array[0];
     for(let i=0; i<array.length; i++){
         const index=i;
         const elements=array[index];
