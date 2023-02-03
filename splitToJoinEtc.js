@@ -5,3 +5,10 @@ const sentence=lyrics.split(',');
 console.log(sentence);
 const words=lyrics.split(' ');
 console.log(words);
+//slice
+const sliceLyrics=lyrics.slice(10,13);
+console.log(sliceLyrics);
+//subString
+const substringLyrics=lyrics.substring(10,13);
+console.log(substringLyrics);
+
