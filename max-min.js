@@ -38,7 +38,7 @@
 // console.log(minNumber);
 
 function maxmin(num1,num2,num3){
-    return Math.min(num1,num2,num3)
+    return Math.min(num1,num2,num3);
     
 }
 const number=12;
